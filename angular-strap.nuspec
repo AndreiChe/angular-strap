@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
     <metadata>
-        <id>angular-strap</id>
-        <version>2.0.0</version>
-        <authors>Olivier Louvignes and contributors</authors>
+        <id>angular-strap-sass-ver</id>
+        <version>1.0.15</version>
+        <authors>AndreiChe</authors>
         <owners>mgcrea</owners>
         <licenseUrl>https://raw.github.com/mgcrea/angular-strap/master/LICENSE.md</licenseUrl>
         <projectUrl>https://github.com/mgcrea/angular-strap</projectUrl>
